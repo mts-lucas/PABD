@@ -1,0 +1,4 @@
+greenlet==3.0.3
+python-decouple==3.8
+SQLAlchemy==2.0.29
+typing_extensions==4.11.0
