@@ -13,5 +13,7 @@ O SQLAlchemy é uma biblioteca Python para trabalhar com bancos de dados relacio
 - **ORM (Object-Relational Mapping)**: é uma técnica de programação que permite mapear objetos de um sistema orientado a objetos para as tabelas de um banco de dados relacional e vice-versa. Em outras palavras, ORM facilita a interação entre um banco de dados relacional e uma aplicação orientada a objetos, permitindo que os desenvolvedores trabalhem com objetos e classes em vez de lidar diretamente com consultas SQL.
 
 # LINKS
+(orm)[https://github.com/mts-lucas/PABD/blob/main/tarefas/orm/fontes/orm.py]
+(odbc)[https://github.com/mts-lucas/PABD/blob/main/tarefas/orm/fontes/odbc.py]
 
 
