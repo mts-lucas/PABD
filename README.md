@@ -1,4 +1,4 @@
-# PABD
+# Projeto e Administração de Banco de Dados
 Repositório dedicado as atividades da disciplina de projeto e administração de banco de dados
 
 # Dados do aluno
