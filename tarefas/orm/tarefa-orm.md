@@ -14,8 +14,9 @@ O SQLAlchemy é uma biblioteca Python para trabalhar com bancos de dados relacio
 
 # LINKS
 
-(orm)[https://github.com/mts-lucas/PABD/blob/main/tarefas/orm/fontes/orm.py]
+<a href="https://github.com/mts-lucas/PABD/blob/main/tarefas/orm/fontes/odbc.py">odbc</a>
 
-(odbc)[https://github.com/mts-lucas/PABD/blob/main/tarefas/orm/fontes/odbc.py]
+<a href="https://github.com/mts-lucas/PABD/blob/main/tarefas/orm/fontes/orm.py">orm</a>
+
 
 
