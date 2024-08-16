@@ -30,5 +30,10 @@ conn_params = {
 }
 </pre>
 
+Por ultimo, navegue ate o diretorio execute o código
+
+<pre>
+python3 maria.py
+</pre>
 
 
